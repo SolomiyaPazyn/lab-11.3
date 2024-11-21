@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\lab 11.3\\lab 11.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B000A65-1211-462C-B104-018FDFA97FD9}|lab 11.3.vcxproj|D:\\programming\\lab 11.3\\lab 11.3\\lab 11.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B000A65-1211-462C-B104-018FDFA97FD9}|lab 11.3.vcxproj|solutionrelative:lab 11.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39A5D3-C488-4B30-BB0E-3B3E122205E3}|UnitTest1\\UnitTest1.vcxproj|D:\\programming\\lab 11.3\\lab 11.3\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D39A5D3-C488-4B30-BB0E-3B3E122205E3}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 11.3\\lab 11.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\programming\\lab 11.3\\lab 11.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T23:53:18.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab 11.3.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 11.3\\lab 11.3\\lab 11.3.cpp",
+              "RelativeDocumentMoniker": "lab 11.3.cpp",
+              "ToolTip": "D:\\programming\\lab 11.3\\lab 11.3\\lab 11.3.cpp",
+              "RelativeToolTip": "lab 11.3.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAGIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T23:28:11.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
